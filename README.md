@@ -11,9 +11,6 @@ I have a quick view of the Boston Airbnb information in the year of 2017, I trie
 
 > 4. Which area is "hottest" for Boston Airbnb and which region is the most expensive?
 
-I have also written a Medium Blog Post about it which can be accessed here.
-
-https://medium.com/@yuanjin0318/quick-view-of-boston-airbnb-data-of-2017-8b0746b765ba
 
 In my Github repository, I also included a prediction model to predict the Airbnb price, in which I did not find much useful information, so that I did not include that part to my medium post.
 
@@ -46,3 +43,7 @@ In my Github repository, I also included a prediction model to predict the Airbn
 > The average price of Airbnb in Boston is at the peak for September and October.
 
 > Harvard Square is the most expensive region for Airbnb in Boston.
+
+I have also written a Medium Blog Post about it which can be accessed here.
+
+https://medium.com/@yuanjin0318/quick-view-of-boston-airbnb-data-of-2017-8b0746b765ba
