@@ -7,7 +7,7 @@ I have a quick view of the Boston Airbnb information in the year of 2017, I trie
 
 > 2. Whether there is a “hot-season” or “cold-season” for Airbnb in Boston? 
 
-> 3. The general price variations according to months and seasons
+> 3. what is the general price variations according to months and seasons
 
 > 4. Which area is "hottest" for Boston Airbnb and which region is the most expensive?
 
